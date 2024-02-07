@@ -1,5 +1,5 @@
 [build]
-public-url = "test"
+public-url = "/"
 
 [serve]
 port = 8084
