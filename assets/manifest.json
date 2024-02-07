@@ -1,6 +1,6 @@
 {
-  "name": "egui Template PWA",
-  "short_name": "egui-template-pwa",
+  "name": "WT datamining tools",
+  "short_name": "wt_ext_web",
   "icons": [
     {
       "src": "./icon-256.png",
